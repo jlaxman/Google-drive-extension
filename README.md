@@ -20,12 +20,13 @@ To authenticate as an end user and access user data in your app, you need to cre
 In the Google Cloud console, go to Menu menu > APIs & Services > Credentials.
 Go to Credentials
 
-Click Create Credentials > OAuth client ID.
-Click Application type > Web application.
-In the Name field, type a name for the credential. 
-In Authorized JavaScript origins add this: http://localhost:8000
-In Authorized redirect URLs: add this: http://localhost:8000/profile.html 
-Click Create. The OAuth client created screen appears, showing your new Client ID.
+1) Click Create Credentials > OAuth client ID.
+2) Click Application type > Web application.
+3) In the Name field, type a name for the credential. 
+4) In Authorized JavaScript origins add this: http://localhost:8000
+5) In Authorized redirect URLs: add this: http://localhost:8000/profile.html 
+6) Click Create. The OAuth client created screen appears, showing your new Client ID.
+  
 Copy this Client ID to Client ID field present in script.js file.
   
 
