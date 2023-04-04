@@ -27,7 +27,7 @@ Go to Credentials
 5) In Authorized redirect URLs: add this: http://localhost:8000/profile.html  <br>
 6) Click Create. The OAuth client created screen appears, showing your new Client ID. </p>
   
-Copy this Client ID to Client ID field present in <h2>script.js</h2> file.
+Copy this Client ID to Client ID field present in <h1>script.js</h1> file.
   
 
 <h3> How to run <h3>
