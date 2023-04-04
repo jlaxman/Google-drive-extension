@@ -38,6 +38,8 @@ In Terminal
 2) Change directory to Google-drive-extension: Enter this cmd on terminal: cd Google-drive-extension
 3)  After above step run this cmd on terminal: python -m http.server 8000
 4) Open this http://localhost:8000 in your browser, to see application running
+  
+  Note: Signin with same google account as per ClientID's google account
  
  
   
