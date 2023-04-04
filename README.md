@@ -1,17 +1,16 @@
 # Google-drive-extension
 
-<h2> Setup your Environment <h2>
+<h3> Setup your Environment <h3>
   
 Prerequisites
 To run this quickstart, you need the following prerequisites:
 
 
-<h3 href='https://developers.google.com/workspace/guides/create-project'>A Google Cloud project <h3>
-A Google account with Google Drive enabled.
-Set up your environment
-To complete this quickstart, set up your environment.
+1) <h3 href='https://developers.google.com/workspace/guides/create-project'>A Google Cloud project <h3>
+2) A Google account with Google Drive enabled.
 
-Enable the API
+
+<h3 href='https://console.cloud.google.com/flows/enableapi?apiid=drive.googleapis.com' >Enable the API <h3>
 Before using Google APIs, you need to turn them on in a Google Cloud project. You can turn on one or more APIs in a single Google Cloud project.
 In the Google Cloud console, enable the Google Drive API.
 
