@@ -15,7 +15,7 @@ To run this quickstart, you need the following prerequisites:
 In the Google Cloud console, enable the Google Drive API. </h4> </p>
 
 
-Authorize credentials for a Web application
+<h2> Authorize credentials for a Web application</h2>
 <p> To authenticate as an end user and access user data in your app, you need to create a OAuth 2.0 Client ID.
 In the Google Cloud console, go to Menu menu > APIs & Services > Credentials.
 Go to Credentials
