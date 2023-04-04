@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Google-Drive App</title>
+    <!-- <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    /> -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Profile Page</h1>
+      <h2>Upload file to google drive</h2>
+      <form id="form">
+        <input type="file" id="file" required />
+        <input type="submit" value="Upload File" />
+      </form>
+      <button id="search">List all files</button>
+      <button id="images">Only Images</button>
+      <button id="videos">Only Videos</button>
+      <button id="pdf">Only PDF</button>
+      <button id="logout">Logout</button>
+      <table class="table table-striped" id="my-table">
+        <thead>
+          <tr>
+            <th>Name of File</th>
+            <th>File Type</th>
+            <th>Download File</th>
+            <th>Delete File</th>
+            <th>Fetch Users</th>
+            <th>User Permissions</th>
+          </tr>
+        </thead>
+        <tbody id="result"></tbody>
+      </table>
+    </div>
+  </body>
+  <script type="module" src="profile.js"></script>
+</html>
