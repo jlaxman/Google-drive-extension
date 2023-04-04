@@ -40,6 +40,10 @@ In Terminal
 4) Open this http://localhost:8000 in your browser, to see application running
   
   Note: Signin with same google account as per ClientID's google account
+  
+<h3> Application </h3>
+
+<img src="pics.png" alt="sigin">
  
  
   
