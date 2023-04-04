@@ -6,8 +6,8 @@ Prerequisites
 To run this quickstart, you need the following prerequisites:
 
 
-1) <h3 href='https://developers.google.com/workspace/guides/create-project'>A Google Cloud project <h3>
-2) A Google account with Google Drive enabled.
+1) <h4 href='https://developers.google.com/workspace/guides/create-project'> A Google Cloud project <h4>
+2) <h4> A Google account with Google Drive enabled. <h4>
 
 
 <h3 href='https://console.cloud.google.com/flows/enableapi?apiid=drive.googleapis.com' >Enable the API <h3>
