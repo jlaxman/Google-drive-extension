@@ -42,9 +42,12 @@ In Terminal
   Note: Signin with same google account as per ClientID's google account
   
 <h3> Application </h3>
+  <h2> Sigin Page </h2>
+   <img src="pics.png" >
 
-<img src="pics.png" alt="sigin">
  
+  <h2> Profile Page </h2>
+   <img src="Profilepage.png">
  
   
  
