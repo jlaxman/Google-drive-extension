@@ -3,7 +3,7 @@
 <h3> Setup your Environment </h3>
   
 Prerequisites
-To run this quickstart, you need the following prerequisites:
+You need the following prerequisites:
 
 
 1) <a href='https://developers.google.com/workspace/guides/create-project'> A Google Cloud project </a>
